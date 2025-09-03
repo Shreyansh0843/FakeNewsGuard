@@ -1,7 +1,7 @@
 # FakeNewsGuard - AI-Powered News Authenticity Detector
 Advanced fake news detection system using BERT transformer models and deep learning. Built with PyTorch, Transformers, and Gradio for instant news verification.
 <p align="center">
-    <img src="image_resume_matching_demo.png" alt="demo-img"/>
+    <img src="image_fake_news.png" alt="demo-img"/>
 </p>
 
 # 🎯 What This Solves
